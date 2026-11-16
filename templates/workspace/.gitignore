@@ -1,0 +1,7 @@
+.env
+.env.*
+*.pem
+*.key
+secrets/
+projects/local-paths.md
+.DS_Store
